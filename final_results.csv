@@ -1,36 +1,11 @@
 company_name,query,confidence,matched
-CATL (Contemporary Amperex Technology),ev_battery_supply_chain,0.95,True
-Panasonic Energy,ev_battery_supply_chain,0.85,True
-LG Energy Solution,ev_battery_supply_chain,0.9,True
-Samsung SDI,ev_battery_supply_chain,0.85,True
-SK Innovation,ev_battery_supply_chain,0.8,True
-Northvolt,ev_battery_supply_chain,0.9,True
+CATL,ev_battery_supply_chain,1.0,True
+Northvolt,ev_battery_supply_chain,0.95,True
+Stripe,fintech_growth_proxy,1.0,True
+Revolut,fintech_growth_proxy,1.0,True
+Bosch Automotive,supplier_role_detection,1.0,True
+Denso Corporation,supplier_role_detection,0.98,True
+McDonald's Corporation,none,0.0,False
 QuantumScape,ev_battery_supply_chain,0.85,True
-Solid Power,ev_battery_supply_chain,0.85,True
-Enovix Corporation,ev_battery_supply_chain,0.8,True
-American Lithium Energy,ev_battery_supply_chain,0.75,True
-Stripe,fintech_growth_proxy,0.9,True
-Adyen,fintech_growth_proxy,0.85,True
-Revolut,fintech_growth_proxy,0.9,True
-N26,fintech_growth_proxy,0.85,True
-Klarna,fintech_growth_proxy,0.9,True
-Chime Financial,fintech_growth_proxy,0.85,True
-Nubank,fintech_growth_proxy,0.9,True
-Wise,fintech_growth_proxy,0.8,True
-Plaid,fintech_growth_proxy,0.8,True
-Moonpay,fintech_growth_proxy,0.75,True
-Bosch Automotive,supplier_role_detection,0.88,True
-Denso Corporation,supplier_role_detection,0.88,True
-Magna International,supplier_role_detection,0.85,True
-ZF Friedrichshafen,supplier_role_detection,0.85,True
-Continental AG,supplier_role_detection,0.83,True
-Aptiv,supplier_role_detection,0.83,True
-BorgWarner,supplier_role_detection,0.8,True
-Valeo,supplier_role_detection,0.8,True
-Mobis Parts Europe,supplier_role_detection,0.78,True
-Forvia,supplier_role_detection,0.78,True
-Amazon,none,0.0,False
-Walmart,none,0.0,False
-McDonald's,none,0.0,False
-Netflix,none,0.0,False
-Spotify,none,0.0,False
+Klarna,fintech_growth_proxy,1.0,True
+ZF Friedrichshafen,supplier_role_detection,1.0,True
