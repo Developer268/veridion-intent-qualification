@@ -1,4 +1,4 @@
-# Technical Writeup — Veridion Intent Qualification
+# Veridion Chalenge
 
 ## 1. Architecture
 
