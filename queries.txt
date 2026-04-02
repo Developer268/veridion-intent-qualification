@@ -1,0 +1,20 @@
+# Intent Qualification Queries
+# Three target queries for the Veridion Data Challenge
+
+Query 1: ev_battery_supply_chain
+Description: Companies that are part of the electric vehicle battery supply chain.
+This includes manufacturers of battery cells, modules, packs, cathode/anode materials,
+electrolytes, separators, BMS systems, and related EV powertrain components.
+Excludes: pure recyclers, lead-acid battery makers, alkaline battery companies.
+
+Query 2: fintech_growth_proxy
+Description: High-growth fintech companies with active funding signals.
+Includes: neobanks, digital payment providers, lending platforms, insurtech, wealthtech,
+regtech, and embedded finance companies that have raised or are raising venture capital.
+Excludes: legacy/traditional banks, brick-and-mortar financial institutions.
+
+Query 3: supplier_role_detection
+Description: Companies acting as Tier-1 or Tier-2 suppliers/manufacturers/OEMs
+in automotive, aerospace, industrial machinery, electronics, or semiconductor sectors.
+Includes: component manufacturers, parts fabricators, OEM suppliers with quality certifications.
+Excludes: pure retailers, end consumers, distributors with no manufacturing role.
