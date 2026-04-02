@@ -1,4 +1,4 @@
-# Veridion Chalenge
+# Veridion ChaLlenge
 
 ## 1. Architecture
 
