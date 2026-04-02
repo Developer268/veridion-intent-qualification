@@ -1,6 +1,3 @@
-# Veridion Intent Qualification
-
-A production-minded, rule-based company intent qualification engine built for the Veridion Data Challenge.
 
 ## Overview
 
